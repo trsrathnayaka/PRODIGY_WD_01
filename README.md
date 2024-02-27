@@ -1,5 +1,4 @@
 # PRODIGY_WD_01
-Responsive Landing Page
 ## Responsive Landing Page
 ---
 # EXTEND YOUR HOME WITH A BEAUTIFUL GARDEN Landing Page
